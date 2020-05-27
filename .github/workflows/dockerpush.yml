@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: web
+  IMAGE_NAME: riasquestions
 
 jobs:
   # Run tests.
