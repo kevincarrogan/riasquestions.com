@@ -1,0 +1,39 @@
+html {
+  background-color: #fefefe;
+  color: #222;
+  height: 100%;
+}
+
+body {
+  display: flex;
+  height: 100%;
+  text-align: center;
+}
+
+main {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  height: 100%;
+}
+
+h1,
+p {
+  flex: 1;
+  margin: 0;
+  padding: 2rem;
+}
+
+h1 {
+  align-items: flex-end;
+  background-color: #eee;
+  border-bottom: 1px solid #ccc;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  display: flex;
+  font-size: 8rem;
+  justify-content: center;
+}
+
+p {
+  font-size: 6rem;
+}
