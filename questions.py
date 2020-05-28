@@ -7,4 +7,5 @@ questions = [
     "Burps or farts?",
     "Would you push a baby out of your vagina?",
     "What's the best bit of the butt?",
+    "What's your favourite ice?",
 ]
