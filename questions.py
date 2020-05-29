@@ -9,4 +9,5 @@ questions = [
     "What's the best bit of the butt?",
     "What's your favourite ice?",
     "Were you really tall as a child? What did your mum do about clothes?",
+    "When you have picky bits for dinner, what are your favourite picky bits?",
 ]
