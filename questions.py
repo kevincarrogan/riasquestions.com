@@ -10,4 +10,5 @@ questions = [
     "What's your favourite ice?",
     "Were you really tall as a child? What did your mum do about clothes?",
     "When you have picky bits for dinner, what are your favourite picky bits?",
+    "What's the silliest argument you've had with someone?",
 ]
