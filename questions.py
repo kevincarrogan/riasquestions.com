@@ -14,4 +14,8 @@ questions = [
     "What’s your perfect meal from Harvester?",
     "Do you need warm milk (with chocolate) for sleepy times?",
     "What are your favourite pancake toppings?",
+    "Where would be the worst place to have an itchy rash (that’s not gross or serious, just really itchy) that isn’t your genitals?",
+    "If you could go to any time/period in history and just observe, see all the best and worst bits but not interact/change the course of history what time would you go to?",
+    "What would you be the god of?",
+    "Do you believe in witchcraft?",
 ]
