@@ -18,4 +18,5 @@ questions = [
     "If you could go to any time/period in history and just observe, see all the best and worst bits but not interact/change the course of history what time would you go to?",
     "What would you be the god of?",
     "Do you believe in witchcraft?",
+    "If you had invisibility would you use it to just look at boobs and penises?",
 ]
