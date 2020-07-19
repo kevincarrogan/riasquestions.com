@@ -19,4 +19,6 @@ questions = [
     "What would you be the god of?",
     "Do you believe in witchcraft?",
     "If you had invisibility would you use it to just look at boobs and penises?",
+    "Do you still eat the same cereal you did as a kid?",
+    "When you were a kid, did you add sugar to every cereal you ate? If so, which sugar?",
 ]
