@@ -21,4 +21,5 @@ questions = [
     "If you had invisibility would you use it to just look at boobs and penises?",
     "Do you still eat the same cereal you did as a kid?",
     "When you were a kid, did you add sugar to every cereal you ate? If so, which sugar?",
+    "What are the cutest puppies?",
 ]
