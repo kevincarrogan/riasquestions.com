@@ -22,4 +22,7 @@ questions = [
     "Do you still eat the same cereal you did as a kid?",
     "When you were a kid, did you add sugar to every cereal you ate? If so, which sugar?",
     "What are the cutest puppies?",
+    "Please can you tell me your best and favourite vegetarian dinner recipes?",
+    "If you are in the Good Place, does the awkwardness of threesomes not happen?",
+    "When you were poor/didn't have any money, what was your cheap meal? Would you still eat it now?",
 ]
