@@ -25,4 +25,12 @@ questions = [
     "Please can you tell me your best and favourite vegetarian dinner recipes?",
     "If you are in the Good Place, does the awkwardness of threesomes not happen?",
     "When you were poor/didn't have any money, what was your cheap meal? Would you still eat it now?",
+    "Just... why men?",
+    "Why does Trent Reznor dislike Marilyn Manson please?",
+    "Am I in Harry Potter?!",
+    "How does it feel to be grown up?",
+    "Are you going to bake today?",
+    "Who owns the goat?",
+    "Would you eat a giant egg to yourself?",
+    "What’s your best type of Easter egg? Do you like a big ole Cadbury’s one, or something fancier?",
 ]
