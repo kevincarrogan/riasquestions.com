@@ -55,6 +55,11 @@ p {
   width: 100%;
 }
 
+p > a {
+  color: inherit;
+  text-decoration: none;
+}
+
 @media (max-width: 450px) {
   p {
     font-size: 2rem;

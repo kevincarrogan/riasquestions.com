@@ -54,7 +54,7 @@ def home(request):
 
 routes = [
     Route("/", home),
-    Route("/{question}/", permalink),
+    Route("/{question}", permalink),
     Mount("/static", StaticFiles(directory="static")),
 ]
 
