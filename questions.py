@@ -34,4 +34,5 @@ questions = [
     "Would you eat a giant egg to yourself?",
     "What’s your best type of Easter egg? Do you like a big ole Cadbury’s one, or something fancier?",
     "When you have tuna pasta bake, do you make two?",
+    "What’s the best pastry you’ve made?",
 ]
