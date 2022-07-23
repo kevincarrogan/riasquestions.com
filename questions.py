@@ -39,4 +39,5 @@ questions = [
     "Who needs a 5kg turkey?!",
     "Should we all go to the cinema to see Thor?",
     "Did you use the glass method? Did it proper scuttle about?",
+    "Do you get a good vibe about the area? What do you like the most about it?",
 ]
