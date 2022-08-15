@@ -1,3 +1,4 @@
-aiofiles~=0.6
-Jinja2~=2.11
+aiofiles~=0.8.0
+Jinja2~=3.1.1
+starlette~=0.19.0
 python-slugify~=4.0
