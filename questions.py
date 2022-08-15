@@ -41,4 +41,5 @@ questions = [
     "Did you use the glass method? Did it proper scuttle about?",
     "Do you get a good vibe about the area? What do you like the most about it?",
     "What's the most tragic thing that's happened to someone you know?",
+    "What’s the most extravagant breakfast you’ve ever had?",
 ]
