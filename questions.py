@@ -44,4 +44,6 @@ questions = [
     "What's the most extravagant breakfast you've ever had?",
     "What's the worst texture you've eaten?",
     "What's your favourite thing on the Pizza Express menu?",
+    "What's the best Victoria sponge you’ve eaten?",
+    "What do you think is the best cake you've eaten?",
 ]
