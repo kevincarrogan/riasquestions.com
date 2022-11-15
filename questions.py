@@ -48,4 +48,5 @@ questions = [
     "What do you think is the best cake you've eaten?",
     "Do you have any favourite letters of the alphabet?",
     "If a jumper isn't dirty then you can wear it twice right?",
+    "What's the nicest smelling hotel/B&B/accommodation you've stayed in?",
 ]
