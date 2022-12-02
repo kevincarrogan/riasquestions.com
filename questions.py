@@ -49,4 +49,5 @@ questions = [
     "Do you have any favourite letters of the alphabet?",
     "If a jumper isn't dirty then you can wear it twice right?",
     "What's the nicest smelling hotel/B&B/accommodation you've stayed in?",
+    "If you could use only one smelly soap for the rest of your life what smell would it be?",
 ]
