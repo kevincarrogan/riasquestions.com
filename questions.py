@@ -50,4 +50,5 @@ questions = [
     "If a jumper isn't dirty then you can wear it twice right?",
     "What's the nicest smelling hotel/B&B/accommodation you've stayed in?",
     "If you could use only one smelly soap for the rest of your life what smell would it be?",
+    "You have one slice of peanut butter on toast and one slice of marmite on toast. Which one would do you eat first?",
 ]
