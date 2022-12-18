@@ -16,7 +16,7 @@
         <h1>Ria's Question</h1>
       </a>
       <p>
-        <a href="{{ permalink }}">{{question}}</a>
+        <a href="{{ permalink }}">{{question|replace("\n", "<br>")|safe}}</a>
       </p>
     </main>
   </body>

@@ -52,4 +52,13 @@ questions = [
     "If you could use only one smelly soap for the rest of your life what smell would it be?",
     "You have one slice of peanut butter on toast and one slice of marmite on toast. Which one would do you eat first?",
     "If you could have any type of beer right now what would it be?",
+    """If you had to chose between:
+
+1) a night in a haunted house where the ghosts keep on pulling the covers/sheets off you all night long but do nothing else. But you can't turn on any lights and you have to reach to the floor/get out of bed each time to put the covers back on.
+
+Or
+
+2) a night in a haunted house and the room you have to sleep in is lined with creepy dolls that spend all night watching you, turn their heads, blink their eyes and move their limbs but don't touch you (as far as you know)
+
+Which would you choose?""",
 ]
