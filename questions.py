@@ -61,4 +61,6 @@ Or
 2) a night in a haunted house and the room you have to sleep in is lined with creepy dolls that spend all night watching you, turn their heads, blink their eyes and move their limbs but don't touch you (as far as you know)
 
 Which would you choose?""",
+    "What’s the worst thing you’ve ever cooked?",
+    "Do you eat a scotch egg like biting into an apple or cut in half?",
 ]
