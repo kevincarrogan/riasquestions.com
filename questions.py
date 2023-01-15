@@ -63,4 +63,6 @@ Or
 Which would you choose?""",
     "What’s the worst thing you’ve ever cooked?",
     "Do you eat a scotch egg like biting into an apple or cut in half?",
+    "If cats could mug each other for things what would they mug each other for?",
+    "What Terry Pratchett have you read?",
 ]
