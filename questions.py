@@ -65,4 +65,5 @@ Which would you choose?""",
     "Do you eat a scotch egg like biting into an apple or cut in half?",
     "If cats could mug each other for things what would they mug each other for?",
     "What Terry Pratchett have you read?",
+    "Do you think hedgehogs know they are spiky?",
 ]
