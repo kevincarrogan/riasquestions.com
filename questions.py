@@ -66,4 +66,5 @@ Which would you choose?""",
     "If cats could mug each other for things what would they mug each other for?",
     "What Terry Pratchett have you read?",
     "Do you think hedgehogs know they are spiky?",
+    "What’s a seemingly normal thing that freaks you out?",
 ]
