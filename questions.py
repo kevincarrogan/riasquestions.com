@@ -68,4 +68,5 @@ Which would you choose?""",
     "Do you think hedgehogs know they are spiky?",
     "What’s a seemingly normal thing that freaks you out?",
     "What actor/actress names would draw you into watching a film?",
+    "When you come home at night, or wake up at night and need to walk around the house, do you turn the lights on, or do you walk around in the semi-darkness like people in horror films?",
 ]
