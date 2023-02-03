@@ -67,4 +67,5 @@ Which would you choose?""",
     "What Terry Pratchett have you read?",
     "Do you think hedgehogs know they are spiky?",
     "What’s a seemingly normal thing that freaks you out?",
+    "What actor/actress names would draw you into watching a film?",
 ]
