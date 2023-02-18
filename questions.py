@@ -70,4 +70,5 @@ Which would you choose?""",
     "What actor/actress names would draw you into watching a film?",
     "When you come home at night, or wake up at night and need to walk around the house, do you turn the lights on, or do you walk around in the semi-darkness like people in horror films?",
     "If you had a portrait painted of yourself, would you prefer it if it was an accurate representation or more idealised version of yourself?",
+    "Have you ever had a crush on a cartoon character?",
 ]
