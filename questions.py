@@ -71,4 +71,5 @@ Which would you choose?""",
     "When you come home at night, or wake up at night and need to walk around the house, do you turn the lights on, or do you walk around in the semi-darkness like people in horror films?",
     "If you had a portrait painted of yourself, would you prefer it if it was an accurate representation or more idealised version of yourself?",
     "Have you ever had a crush on a cartoon character?",
+    "In olden times, before science, what do you think people thought rainbows were?",
 ]
