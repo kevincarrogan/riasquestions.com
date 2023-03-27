@@ -72,4 +72,5 @@ Which would you choose?""",
     "If you had a portrait painted of yourself, would you prefer it if it was an accurate representation or more idealised version of yourself?",
     "Have you ever had a crush on a cartoon character?",
     "In olden times, before science, what do you think people thought rainbows were?",
+    "Once you wear a t-shirt or top to bed does that mean it is henceforth considered pyjamas or would you wear it out and about?",
 ]
