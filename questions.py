@@ -73,4 +73,5 @@ Which would you choose?""",
     "Have you ever had a crush on a cartoon character?",
     "In olden times, before science, what do you think people thought rainbows were?",
     "Once you wear a t-shirt or top to bed does that mean it is henceforth considered pyjamas or would you wear it out and about?",
+    "Would you eat a small block of cheese that has fallen out of your clothing?",
 ]
