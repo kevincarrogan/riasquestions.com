@@ -1,4 +1,4 @@
-FROM tiangolo/uvicorn-gunicorn-starlette:python3.9-alpine3.14
+FROM tiangolo/uvicorn-gunicorn-starlette:python3.11
 
 COPY . /app
 
