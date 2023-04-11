@@ -4,7 +4,6 @@ import settings
 from slugify import slugify
 
 from starlette.applications import Starlette
-from starlette.config import Config
 from starlette.responses import Response
 from starlette.routing import Route, Mount
 from starlette.staticfiles import StaticFiles
