@@ -75,4 +75,5 @@ Which would you choose?""",
     "Once you wear a t-shirt or top to bed does that mean it is henceforth considered pyjamas or would you wear it out and about?",
     "Would you eat a small block of cheese that has fallen out of your clothing?",
     "Do you like big oranges?",
+    "Do you think you could punch a bird?",
 ]
