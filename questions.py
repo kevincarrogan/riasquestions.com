@@ -76,4 +76,5 @@ Which would you choose?""",
     "Would you eat a small block of cheese that has fallen out of your clothing?",
     "Do you like big oranges?",
     "Do you think you could punch a bird?",
+    "Is Babe a Christmas film to you?",
 ]
