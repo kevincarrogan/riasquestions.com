@@ -77,4 +77,5 @@ Which would you choose?""",
     "Do you like big oranges?",
     "Do you think you could punch a bird?",
     "Is Babe a Christmas film to you?",
+    "What are your favourite Christmas flavours, please?",
 ]
